@@ -4,6 +4,7 @@ The Clojure Koans are a fun and easy way to get started with Clojure - no
 experience assumed or required.  Just follow the instructions below to start
 making tests pass!
 
+**This repo was originally created by Aaron Bedra (see below). I've asked GH to detach this fork from the original so my contributions will appear without my making a PR & merging, which is not the use case here. — EW**
 
 ### Getting Started
 
